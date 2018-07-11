@@ -21,6 +21,16 @@ Non-parametric approaches, such as KNN, tend to perform poorly as the number of 
 
 [stackexchange](https://datascience.stackexchange.com/questions/29006/feature-selection-vs-feature-extraction-which-to-use-when)
 
+### 4. How to evaluate model performance?
+
+### 5. How to deal with missing values and why is it necessary?
+
+[Jason Brownie](https://machinelearningmastery.com/handle-missing-data-python/)
+* Constant value that has a meaning in the domain.
+* A value from randomly selected record.
+* A mean, median or mode value for the column.
+* A value estimated by another predicitve model.
+
 Bibliography
 ============
 <a name="Hastie2009"> [1] Trevor Hastie, Robert Tibshirani & Jerome Friedman, *The elements of statistical learning*, Springer (2009). </a>
