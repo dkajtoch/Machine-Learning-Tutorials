@@ -31,6 +31,13 @@ Non-parametric approaches, such as KNN, tend to perform poorly as the number of 
 * A mean, median or mode value for the column.
 * A value estimated by another predicitve model.
 
+### 6. What is feature enginnering and known methods?
+* [Dmitry Larko](https://www.youtube.com/watch?v=irkV4sYExX4)
+* [EliteDataScience](https://elitedatascience.com/feature-engineering-best-practices)
+* [stackexchange](https://datascience.stackexchange.com/questions/8286/are-there-any-tools-for-feature-engineering?rq=1)
+* [Quora](https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering)
+* [Jason Brownie](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+
 Bibliography
 ============
 <a name="Hastie2009"> [1] Trevor Hastie, Robert Tibshirani & Jerome Friedman, *The elements of statistical learning*, Springer (2009). </a>
